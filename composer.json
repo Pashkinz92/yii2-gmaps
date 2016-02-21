@@ -1,0 +1,21 @@
+{
+    "name": "pashkinz92/yii2-google-maps",
+    "description": "Google maps coords",
+    "type": "yii2-extension",
+    "keywords": ["yii2","extension"," google maps"],
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Pavel",
+            "email": "pashkinz92@gmail.com"
+        }
+    ],
+    "require": {
+        "yiisoft/yii2": "*"
+    },
+    "autoload": {
+        "psr-4": {
+            "pashkinz92\\": ""
+        }
+    }
+}
