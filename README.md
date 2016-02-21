@@ -28,4 +28,4 @@ Usage
 Once the extension is installed, simply use it in your code by  :
 
 ```php
-<?= \pashkinz92\GMaps\AutoloadExample::widget(); ?>```
+<?= \pashkinz92\Gmap::widget(); ?>```
