@@ -1,6 +1,6 @@
 <?php
 
-namespace pashkinz92;
+namespace pashkinz92\gmaps;
 
 /**
  * This is just an example.
