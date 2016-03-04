@@ -9,7 +9,7 @@
     namespace pashkinz92\gmaps;
 
 
-    class GMapAsset
+    class GMapAsset extends \yii\web\AssetBundle
     {
         public $sourcePath = '@vendor/pashkinz92/yii2-google-maps/assets';
 
